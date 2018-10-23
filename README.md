@@ -2,6 +2,12 @@
 
 EOS Nation's open source contributions to the EOS ecosystem.
 
+### BP Validate
+
+Tools to validate BPs have set up their public configuration correctly
+
+https://github.com/EOS-Nation/bpvalidate
+
 ### `eosws` Js/Ts bindings
 
 WebSocket consumer for the https://dfuse.io API on EOS networks.
