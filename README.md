@@ -2,6 +2,30 @@
 
 EOS Nation's open source contributions to the EOS ecosystem.
 
+### BOS Referendum
+
+BOS Ecosystem Program (Referendum & WPS)
+
+https://github.com/boscore/referendum
+
+### BOS Escrow
+
+An escrow contract designed for paying worker proposals.
+
+https://github.com/EOS-Nation/escrow.bos
+
+### BOS Referendum Tally
+
+Aggregates proposals/votes/voter staked weights from `eosio.forum`
+
+https://github.com/EOS-Nation/bos-referendum-tally
+
+### BOS Auditor
+
+This contract will be in charge of auditor registration and voting for candidates. 
+
+https://github.com/EOS-Nation/auditor.bos 
+
 ### EOSIO issues created by Matthew Darwin
 
 https://github.com/EOSIO/eos/issues/created_by/matthewdarwin
@@ -11,22 +35,6 @@ https://github.com/EOSIO/eos/issues/created_by/matthewdarwin
 Tools to validate BPs have set up their public configuration correctly
 
 https://github.com/EOS-Nation/bpvalidate
-
-### BOS Referendum Tally
-
-https://github.com/EOS-Nation/bos-referendum-tally
-
-### BOS Auditor
-
-https://github.com/EOS-Nation/auditor.bos 
-
-### BOS Escrow
-
-https://github.com/EOS-Nation/escrow.bos
-
-### BOS Referendum
-
-https://github.com/boscore/referendum/tree/master/contracts
 
 ### Javascript (Typescript) Library for Hyperion V2
 
