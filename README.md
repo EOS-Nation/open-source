@@ -49,3 +49,69 @@ https://github.com/EOS-BP-Developers/eosio-graphql
 Quickly and easily create complex MongoDB Queries for the EOSIO blockchain.  
 
 https://github.com/EOS-BP-Developers/eosio-mongodb-queries 
+
+### EOS WebSocket Javascript Library
+
+TEXT MISSING  
+
+https://github.com/eos-nation/eosws
+
+### NodeJS Iterate over JSONL (Line Delimited JSON)
+
+TEXT MISSING  
+
+https://github.com/EOS-Nation/node-jsonl
+
+### NodeJS Iterate over JSONL (Line Delimited JSON)
+
+TEXT MISSING  
+
+https://github.com/EOS-Nation/node-jsonl
+
+### Dfuse.io HTTP API Javascript 
+
+TEXT MISSING  
+
+https://github.com/EOS-Nation/dfuse-eoshttp-js
+
+### BancorX Utility Javascript (Typescript) Library
+
+TEXT MISSING  
+
+https://github.com/EOS-Nation/bancorx 
+
+### Javascript (Typescript) Library for Hyperion V2
+
+TEXT MISSING  
+
+https://github.com/eoscafe/hyperion-api
+
+### BOS Referendum Tally
+
+TEXT MISSING  
+
+https://github.com/EOS-Nation/bos-referendum-tally
+
+### BOS Auditor
+
+TEXT MISSING  
+
+https://github.com/EOS-Nation/auditor.bos 
+
+### BOS Escrow
+
+TEXT MISSING  
+
+https://github.com/EOS-Nation/escrow.bos
+
+### BOS Referendum
+
+TEXT MISSING  
+
+https://github.com/boscore/referendum/tree/master/contracts
+
+### EOSIO issues created by Matthew Darwin
+
+TEXT MISSING  
+
+https://github.com/EOSIO/eos/issues/created_by/matthewdarwin
