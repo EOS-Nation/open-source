@@ -12,23 +12,57 @@ Tools to validate BPs have set up their public configuration correctly
 
 https://github.com/EOS-Nation/bpvalidate
 
-### Genereos EOS Toolkit
+### BOS Referendum Tally
 
-Implemented features such as Claim Rewards, Refund, BuyRam & SellRam.
+https://github.com/EOS-Nation/bos-referendum-tally
 
-https://eostoolkit.io
+### BOS Auditor
 
-### `eosws` Js/Ts bindings
+https://github.com/EOS-Nation/auditor.bos 
 
-WebSocket consumer for the https://dfuse.io API on EOS networks.
+### BOS Escrow
 
-https://github.com/dfuse-io/eosws-js
+https://github.com/EOS-Nation/escrow.bos
+
+### BOS Referendum
+
+https://github.com/boscore/referendum/tree/master/contracts
+
+### Javascript (Typescript) Library for Hyperion V2
+
+https://github.com/eoscafe/hyperion-api
 
 ### EOSVotes.io Tally
 
 EOS Votes tally quickly retrieves all proposals and votes from eosforumrcpp and generate a simple to understand voting tally statistics in JSON format.
 
 https://github.com/EOS-Nation/eosvotes-tally-eosws
+
+### BancorX Utility Javascript (Typescript) Library
+
+https://github.com/EOS-Nation/bancorx 
+
+### EOS WebSocket Javascript Library
+
+https://github.com/eos-nation/eosws
+
+### NodeJS Iterate over JSONL (Line Delimited JSON)
+
+https://github.com/EOS-Nation/node-jsonl
+
+### NodeJS Iterate over JSONL (Line Delimited JSON)
+
+https://github.com/EOS-Nation/node-jsonl
+
+### Dfuse.io HTTP API Javascript 
+
+https://github.com/EOS-Nation/dfuse-eoshttp-js
+
+### `eosws` Js/Ts bindings
+
+WebSocket consumer for the https://dfuse.io API on EOS networks.
+
+https://github.com/dfuse-io/eosws-js
 
 ### EOS Receipt
 
@@ -60,42 +94,8 @@ Quickly and easily create complex MongoDB Queries for the EOSIO blockchain.
 
 https://github.com/EOS-BP-Developers/eosio-mongodb-queries 
 
-### EOS WebSocket Javascript Library
+### Genereos EOS Toolkit
 
-https://github.com/eos-nation/eosws
+Implemented features such as Claim Rewards, Refund, BuyRam & SellRam.
 
-### NodeJS Iterate over JSONL (Line Delimited JSON)
-
-https://github.com/EOS-Nation/node-jsonl
-
-### NodeJS Iterate over JSONL (Line Delimited JSON)
-
-https://github.com/EOS-Nation/node-jsonl
-
-### Dfuse.io HTTP API Javascript 
-
-https://github.com/EOS-Nation/dfuse-eoshttp-js
-
-### BancorX Utility Javascript (Typescript) Library
-
-https://github.com/EOS-Nation/bancorx 
-
-### Javascript (Typescript) Library for Hyperion V2
-
-https://github.com/eoscafe/hyperion-api
-
-### BOS Referendum Tally
-
-https://github.com/EOS-Nation/bos-referendum-tally
-
-### BOS Auditor
-
-https://github.com/EOS-Nation/auditor.bos 
-
-### BOS Escrow
-
-https://github.com/EOS-Nation/escrow.bos
-
-### BOS Referendum
-
-https://github.com/boscore/referendum/tree/master/contracts
+https://eostoolkit.io
