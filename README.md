@@ -6,7 +6,7 @@ EOS Nation's open source contributions to the EOS ecosystem.
 
 https://github.com/EOSIO/eos/issues/created_by/matthewdarwin
 
-### BP Validate
+### BP Validator
 
 Tools to validate BPs have set up their public configuration correctly
 
