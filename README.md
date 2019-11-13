@@ -2,25 +2,49 @@
 
 EOS Nation's open source contributions to the EOS ecosystem.
 
-### BOS Referendum
+### Bancor Portal (UI)
+
+https://github.com/EOS-Nation/bancor-ui
+
+### Blocktivity EOSIO Stats (EOSIO Smart Contract & Server Side)
+
+https://github.com/EOS-Nation/blocktivity-eosio-stats
+
+### EOS Common (Javascript/Typescript Library)
+
+https://github.com/EOS-Nation/eos-common
+
+### DSP Whitelist (EOSIO Smart Contract)
+
+https://github.com/EOS-Nation/dsp-whitelist
+
+### Light KYC Identity Report (EOSIO Smart Contract)
+
+https://github.com/EOS-Nation/light-kyc-identity-report
+
+### GeoLocation XY Network (EOSIO Smart Contract)
+
+https://github.com/EOS-Nation/xy-network
+
+### BOS Referendum (EOSIO Smart Contract)
 
 BOS Ecosystem Program (Referendum & WPS)
 
 https://github.com/boscore/referendum
 
-### BOS Escrow
+### BOS Escrow (EOSIO Smart Contract)
 
 An escrow contract designed for paying worker proposals.
 
 https://github.com/EOS-Nation/escrow.bos
 
-### BOS Referendum Tally
+### BOS Referendum Tally (Server Side)
 
 Aggregates proposals/votes/voter staked weights from `eosio.forum`
 
 https://github.com/EOS-Nation/bos-referendum-tally
 
-### BOS Auditor
+### BOS Auditor (EOSIO Smart Contract)
 
 This contract will be in charge of auditor registration and voting for candidates. 
 
@@ -30,7 +54,7 @@ https://github.com/EOS-Nation/auditor.bos
 
 https://github.com/EOSIO/eos/issues/created_by/matthewdarwin
 
-### BP Validator
+### BP Validator (Server Side & UI)
 
 Tools to validate BPs have set up their public configuration correctly
 
@@ -40,7 +64,7 @@ https://github.com/EOS-Nation/bpvalidate
 
 https://github.com/eoscafe/hyperion-api
 
-### EOSVotes.io Tally
+### EOSVotes.io Tally (Server Side)
 
 EOS Votes tally quickly retrieves all proposals and votes from eosforumrcpp and generate a simple to understand voting tally statistics in JSON format.
 
@@ -50,7 +74,7 @@ https://github.com/EOS-Nation/eosvotes-tally-eosws
 
 https://github.com/EOS-Nation/bancorx 
 
-### EOS WebSocket Javascript Library
+### EOS WebSocket Javascript Library (Javascript Library)
 
 https://github.com/eos-nation/eosws
 
