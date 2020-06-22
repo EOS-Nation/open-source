@@ -2,9 +2,13 @@
 
 EOS Nation's open source contributions to the EOS ecosystem.
 
-### Bancor Portal (UI)
+### StableEx - Building secure & reliable financial blockchain instruments
 
-https://github.com/EOS-Nation/bancor-ui
+https://github.com/stableex
+
+### xNation Portal (UI)
+
+https://github.com/EOS-Nation/xnation-ui
 
 ### Blocktivity EOSIO Stats (EOSIO Smart Contract & Server Side)
 
@@ -13,6 +17,10 @@ https://github.com/EOS-Nation/blocktivity-eosio-stats
 ### EOS Common (Javascript/Typescript Library)
 
 https://github.com/EOS-Nation/eos-common
+
+### WAX DelphiOracle price feed
+
+https://github.com/EOS-Nation/wax-delphioracle
 
 ### DSP Whitelist (EOSIO Smart Contract)
 
